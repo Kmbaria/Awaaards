@@ -53,8 +53,8 @@ As a user I would like:
 
 
 # Technologies Used
-* Python ( ver 3.6 )
-* Django ( ver 3 )
+* Python 
+* Django 
 * Django Bootstrap 3
 * PostgreSQL
 * Heroku
