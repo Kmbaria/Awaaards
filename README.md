@@ -1,4 +1,4 @@
-# Awaaards
+# Awwaards
 
 # Author
 By George kinyanjui mbaria
