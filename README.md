@@ -58,6 +58,7 @@ As a user I would like:
 * Django Bootstrap 3
 * PostgreSQL
 * Heroku
+* Moringa sch & Tm's
 
 # Acknowledgements
 * W3Schools
