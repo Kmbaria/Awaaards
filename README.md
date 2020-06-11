@@ -14,8 +14,8 @@ As a user I would like to:
 * Post a project to be rated/reviewed.
 * Rate/ review other users' projects.
 * Search for projects.
-* View projects overall score
-* View my profile page
+* View projects overall score.
+* View my profile page.
 
 ### BDD Specifications Table
 |        User Requirements                 |           Input                           |           Output                         |
