@@ -55,10 +55,10 @@ As a user I would like:
 # Technologies Used
 * Python 
 * Django 
-* Django Bootstrap 3
+* HTML & CSS
 * PostgreSQL
 * Heroku
-* Moringa sch & Tm's
+
 
 # Acknowledgements
 * W3Schools
