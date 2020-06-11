@@ -41,7 +41,7 @@ As a user I would like:
 
 ## Installation Process
 * Open my GitHub
-* find my repo PhotoBooth
+* Find my repo PhotoBooth
 * run git clone REPO-URL in your terminal
 * write cd Awwards
 * create a virtual environment with python3.6 -m venv virtual
