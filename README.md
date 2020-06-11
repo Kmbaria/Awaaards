@@ -7,7 +7,7 @@ This is an application that allows users to upload their personal projects which
   George Kinyanjui Mbaria
 
 # User Stories
-As a user I would like:
+As a user I would like to:
 
 * View posted projects and their details
 * Post a project to be rated/reviewed
