@@ -40,7 +40,7 @@ As a user I would like:
 * PostgreSQL
 
 ## Installation Process
-* open my GitHub
+* Open my GitHub
 * find my repo PhotoBooth
 * run git clone REPO-URL in your terminal
 * write cd Awwards
