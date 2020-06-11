@@ -11,7 +11,7 @@ These projects can then be rated by the other users. The other users can also si
 As a user I would like to:
 
 * View posted projects and their details.
-* Post a project to be rated/reviewed
+* Post a project to be rated/reviewed.
 * Rate/ review other users' projects
 * Search for projects 
 * View projects overall score
