@@ -64,6 +64,7 @@ As a user I would like:
 * W3Schools
 * Stack Overflow
 * Google
+* Moringa sch & Tm's
 
 ## KNOWN BUGS:
 Any bugs noted you can email me for clarification.
