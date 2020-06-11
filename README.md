@@ -5,7 +5,8 @@ By George kinyanjui mbaria
 
 # Description
 This is an application that allows users to upload their personal projects which they have been working on. These projects can then be rated by the other users. The other users can also sign up and post their own personal projects too.
-
+# Author
+By George kinyanjui mbaria
 # User Stories
 As a user I would like:
 
