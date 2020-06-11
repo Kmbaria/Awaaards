@@ -5,6 +5,7 @@ This is an application that allows users to upload their personal projects which
 
 # Author
 By George kinyanjui mbaria
+
 # User Stories
 As a user I would like:
 
